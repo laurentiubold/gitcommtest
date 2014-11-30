@@ -1,5 +1,9 @@
 Prima linie
 
+<<<<<<< HEAD
 A doua linie din primul folder
+=======
+A doua linie din al doilea folder
+>>>>>>> ada0123069473282565f4cb1aab5c58f175cb2ae
 
 A treia linie
